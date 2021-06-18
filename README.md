@@ -4,3 +4,11 @@ program uses a public struct that represents a house. The struct contains variab
 
 ## Tech Used
 - Go "Golang"
+
+
+## Setup, Install, Run
+```
+git clone https://github.com/LWRGitHub/houses-on-the-market.git
+cd houses-on-the-market
+go run homesForSale.go
+```
